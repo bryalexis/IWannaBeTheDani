@@ -52,4 +52,4 @@ Para ejecutar el juego existe un archivo llamado Game.exe, el cual permite ejecu
 Dentro del juego, el personaje se mueve con las teclas `W`, `A`, `S`, `D` para ir hacia adelante, izquierda, atrás y derecha respectivamente. Para disparar se utiliza el `Click izquierdo`. Cabe destacar que el juego no tiene una interfaz muy prolija, por lo que para cerrar el programa es necesario cerrarlo con `Alt + F4`.
 
 ## Demo
-Se puede ver una demostración en este [video] (https://youtu.be/eQ2dD3_TqEQ)
+Se puede ver una demostración en este [video](https://youtu.be/eQ2dD3_TqEQ)
